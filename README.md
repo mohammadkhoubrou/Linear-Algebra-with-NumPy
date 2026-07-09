@@ -1,11 +1,12 @@
 # Linear-Algebra-with-NumPy
+## 📖Overview
 This repository includes my notes that I have made throughout the self taught course of *linear algebra*. Notebooks include description of the topics in linear algebra as well as examples and results implemented in python using *Numpy* library.
 
-## Why Linear Algebra?
+## 🛠️Why Linear Algebra?
 The main reason I started learning linear algebra was to deeply understand *machine learning* and *deep learning* algorithms. Ofcourse one can use these algorithms without a need to implement them himself; However, in order to gain a profound comprehension of the topic, you must learn to implement them yourself and for that you need linear algebra.
 Machine learning and deep learning tend to treat data in groups for more effeciency. This topic of mathematics allows us achieve these goals by introducing structures such as **vector** and **matrix**.
 
-## Topics Covered
+## 📚Topics Covered
 - NumPy fundamentals and array creation
 - Vector representation (row and column vectors)
 - Vector arithmetic and scalar multiplication
@@ -23,7 +24,8 @@ Machine learning and deep learning tend to treat data in groups for more effecie
 - Data visualization with Matplotlib and Plotly
 - Manual implementation of linear algebra operations using NumPy
 
-## Repository Structure
+## 📂Repository Structure
+```
 Linear-Algebra-with-NumPy/
 │
 ├── Chapter 1 - NumPy Fundamentals
@@ -36,6 +38,6 @@ Linear-Algebra-with-NumPy/
 ├── Chapter 8 - Filtering and Convolution
 │
 └── README.md
-
-## Refrence
+```
+## 🔗Refrence
 [1]Mike X Cohen, Practical Linear Algebra for Data Science
